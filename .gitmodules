@@ -1,0 +1,3 @@
+[submodule "projects/angular-lib-workflow"]
+	path = projects/angular-lib-workflow
+	url = git@github.com:code041/angular-lib-workflow
